@@ -1,0 +1,5 @@
+I write unit-tests that verify every requirement is functioning the way it should be in order to ensure my code works and has no security concerns. I test normal situations as well as incorrect inputs so that the program will not fail. In my Contact Service for instance, I tested the field length limits null values and so on. This allows me to detect problems from early on. I ensure to validate inputs, clean and organize my code as much as possible You can always come back in a week or so and explain it.
+
+I read the requirements from user perspective and transforming to program rules. I question what the user must be able to do and what absolutely is not allowed. Then I write the program to implement those rules and test it to verify that it works as intended.
+
+And when I develop software, I partition the problem. I always use single responsibility principle, I will separate the Contact class and the ContactService class I work on one piece, test it, move on. It is a methodical approach that enables me to write reliable, structured and maintainable software.
